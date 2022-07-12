@@ -1,0 +1,3 @@
+# sfn
+
+sfn is a simple and efficient protocol for transferring files over network. It's easy to use, and full-featured client can be implemented in half an hour. Due to this simplicity, many implementations in different languages were created. Send yours.
