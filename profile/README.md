@@ -2,4 +2,4 @@
 
 ### Protocol revisions
 
-L1 is the most basic one, L3 has checksum support, L4 has faster checksum support. They are backward-compatible: every new revision includes support for  existing opcodes all the way back to L1. See the [full spec](https://github.com/sfn-software/sfn/blob/master/PROTOCOL.md).
+L1 is the most basic one, L3 has checksum support, L4 has faster checksum support. They are backward-compatible: every new revision includes support for  existing opcodes all the way back to L1. See the [full spec](https://github.com/sfn-software/protocol/blob/main/README.md).
